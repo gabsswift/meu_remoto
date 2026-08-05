@@ -1,0 +1,25 @@
+ATIVIDADE: TAGS
+1. Para os projetos pesquisados anteriormente, examine como (e se) foi feito o uso de tags.
+
+Foram analisados os seguintes projetos do GitHub:
+
+Projeto	Uso de tags	Esquema de versionamento
+Bootstrap	Sim	Semantic Versioning (SemVer), como v5.3.8
+Spring Boot	Sim	SemVer, como v3.5.6
+React	Sim	SemVer, como v19.1.1
+
+Todos utilizam tags para identificar versões oficiais do software, facilitando o acesso a versões específicas.
+
+2. Pesquise outros projetos conhecidos e veja como é feito o uso das tags.
+
+Exemplos:
+
+Projeto	Exemplo de tag	Observações
+Linux	v6.16	Cada tag representa um lançamento oficial do kernel.
+Node.js	v24.8.0	Utiliza SemVer e cria tags a cada nova versão.
+VS Code	1.104.2	As tags representam as versões distribuídas aos usuários.
+Observações
+As tags normalmente seguem o padrão vMAJOR.MINOR.PATCH.
+Geralmente são criadas em commits de lançamento.
+Muitas possuem descrição (release notes).
+A frequência varia conforme o projeto: alguns lançam novas tags semanalmente, outros mensalmente ou apenas quando há novidades importantes.

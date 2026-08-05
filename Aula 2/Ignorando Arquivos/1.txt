@@ -1,0 +1,19 @@
+1. Descreva o resultado esperado para um repositório com um arquivo .gitignore contendo:
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*.pdf
+
+Explicação de cada regra:
+
+!lib.a
+Garante que o arquivo lib.a não seja ignorado (caso alguma regra anterior o ignorasse).
+/TODO
+Ignora apenas o arquivo TODO localizado na raiz do repositório.
+build/
+Ignora toda a pasta build e todo o seu conteúdo.
+doc/*.txt
+Ignora todos os arquivos .txt que estejam diretamente dentro da pasta doc.
+doc/**/*.pdf
+Ignora todos os arquivos .pdf localizados em qualquer subpasta de doc, independentemente da profundidade.

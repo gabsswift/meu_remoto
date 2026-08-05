@@ -1,0 +1,60 @@
+1. Qual seria sua estratégia para identificar as versões? Justifique.
+
+Utilizaria o padrão Semantic Versioning (SemVer), identificando as versões no formato MAJOR.MINOR.PATCH. Essa estratégia facilita o controle da evolução do software, permitindo que desenvolvedores e usuários saibam quando houve apenas correções, novas funcionalidades ou mudanças que quebram a compatibilidade.
+
+2. Como nomearia a primeira versão para o público?
+
+Versão 1.0.0
+
+Justificativa: representa o primeiro lançamento oficial e estável do sistema.
+
+3. Após liberado o projeto, uma nova funcionalidade foi requisitada e implementada. Como nomearia esta nova versão?
+
+Versão 1.1.0
+
+Justificativa: houve adição de uma nova funcionalidade sem quebrar a compatibilidade.
+
+4. Considerando a sequência anterior com o esquema de versionamento SemVer, como ficaria o histórico de versões?
+1.0.0 – Primeira versão pública.
+1.1.0 – Inclusão de nova funcionalidade.
+5. A partir da versão indicada antes, uma série de 3 correções, seguida por duas funcionalidades compatíveis com a versão atual e mais outras 2 correções foram publicadas em série. Qual seria a versão mais recente?
+
+Partindo da 1.1.0:
+
+1.1.1 → Correção 1
+1.1.2 → Correção 2
+1.1.3 → Correção 3
+1.2.0 → Nova funcionalidade 1
+1.3.0 → Nova funcionalidade 2
+1.3.1 → Correção 1
+1.3.2 → Correção 2
+
+Versão mais recente: 1.3.2
+
+6. Uma versão nova exigiu mudanças críticas na API, foi lançada e na sequência houve três novas versões: uma com adição de funcionalidades, seguidas de duas com correções de bugs. Como fica o histórico?
+
+Partindo da 1.3.2:
+
+2.0.0 → Mudanças críticas na API (quebra de compatibilidade)
+2.1.0 → Nova funcionalidade
+2.1.1 → Correção de bug
+2.1.2 → Correção de bug
+
+Histórico:
+
+1.3.2
+2.0.0
+2.1.0
+2.1.1
+2.1.2
+7. Pesquise exemplos representativos de versões reais de software considerando cada um dos termos apontados.
+Tipo=Exemplo=====================Explicação
+MAJOR=Python 2.7 → 3.0===========Houve mudanças incompatíveis com versões anteriores.
+MINOR=Google Chrome 137.0 → 138.0=Inclusão de novas funcionalidades e melhorias, mantendo compatibilidade.
+PATCH=Ubuntu 24.04.1 → 24.04.2====Atualização focada em correções de bugs e segurança, sem adicionar funcionalidades significativas.
+
+Esses exemplos ilustram os três níveis do Semantic Versioning:
+
+MAJOR: mudanças grandes e incompatíveis;
+MINOR: novas funcionalidades compatíveis;
+PATCH: apenas correções de erros.
