@@ -1,0 +1,61 @@
+1. Como as normas definem os aspectos de qualidade?
+
+As normas ISO/IEC definem características que um software deve possuir para ser considerado de qualidade.
+
+Aspecto	Definição
+Adequação Funcional	O software realiza corretamente as funções para as quais foi desenvolvido.
+Eficiência de Desempenho	Utiliza bem os recursos (CPU, memória, rede) e responde rapidamente.
+Compatibilidade	Consegue funcionar e trocar informações com outros sistemas.
+Usabilidade	É fácil de aprender, compreender e utilizar.
+Confiabilidade	Funciona corretamente por longos períodos, sem falhas.
+Segurança	Protege dados e impede acessos não autorizados.
+Manutenibilidade	É fácil de corrigir, atualizar e evoluir.
+Portabilidade	Pode ser executado em diferentes plataformas e ambientes.
+
+Na qualidade em uso, a ISO também considera:
+
+Eficácia: o usuário consegue atingir seus objetivos.
+Eficiência: faz isso com pouco esforço e tempo.
+Satisfação: o usuário fica satisfeito com o sistema.
+Liberdade de risco: reduz riscos para pessoas, dados e organizações.
+Cobertura do contexto: funciona adequadamente em diferentes situações de uso.
+
+2. Correspondência entre português e inglês
+Português-Inglês-Definição
+Adequação Funcional-Functional Suitability-Atende às funções esperadas.
+Eficiência de Desempenho-Performance Efficiency-Bom desempenho e uso de recursos.
+Compatibilidade-Compatibility-Funciona com outros sistemas.
+Usabilidade-Usability-Fácil de aprender e utilizar.
+Confiabilidade-Reliability-Poucas falhas durante o uso.
+Segurança-Security-Protege informações e acessos.
+Manutenibilidade-Maintainability-Fácil de modificar e corrigir.
+Portabilidade-Portability-Funciona em diferentes plataformas.
+Eficácia-Effectiveness-Usuário alcança seus objetivos.
+Eficiência-Efficiency-Objetivos alcançados com pouco esforço.
+Satisfação-Satisfaction-Grau de contentamento do usuário.
+Liberdade de Risco-Freedom from Risk-Minimiza riscos ao usuário e à organização.
+Cobertura do Contexto-Context Coverag-Funciona em diversos contextos de uso.
+3. Houve mudanças entre as versões das normas? São significativas?
+
+Sim.
+
+A ISO/IEC 9126 (1991) possuía seis características principais de qualidade.
+
+A ISO/IEC 25010 (2011) ampliou esse modelo, adicionando características como Segurança e Compatibilidade, além de separar claramente a qualidade do produto da qualidade em uso.
+
+As versões mais recentes da Família SQuaRE (2023 e 2024) atualizaram conceitos, detalharam melhor os modelos de qualidade e incluíram aspectos como Capacidade de Interação e Flexibilidade.
+
+Essas mudanças são significativas porque acompanham a evolução dos softwares, que hoje precisam funcionar em ambientes distribuídos, na nuvem, em dispositivos móveis e com maior preocupação com segurança e experiência do usuário.
+
+4. Por que existem diferentes categorias dentro da Família SQuaRE?
+
+A Família SQuaRE (Software Quality Requirements and Evaluation) é dividida em várias normas porque cada uma trata de uma parte específica da qualidade.
+
+Por exemplo:
+
+ISO/IEC 25002: explica como utilizar os modelos de qualidade.
+ISO/IEC 25010: define as características de qualidade do produto.
+ISO/IEC 25019: trata da qualidade durante o uso do software.
+Outras normas da família abordam requisitos, métricas, medições e métodos de avaliação.
+
+Essa divisão facilita a aplicação das normas, permitindo que desenvolvedores, avaliadores e gestores utilizem apenas as partes mais adequadas ao seu trabalho.

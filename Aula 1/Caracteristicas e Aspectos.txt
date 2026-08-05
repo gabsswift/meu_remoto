@@ -1,0 +1,53 @@
+
+Quais são as características comuns desses softwares?
+Bons softwares
+Interface simples e intuitiva.
+Bom desempenho.
+Confiabilidade.
+Poucos erros.
+Segurança.
+Atualizações frequentes.
+Facilidade de uso.
+Disponibilidade.
+Maus softwares
+Lentidão.
+Travamentos.
+Muitos bugs.
+Interface confusa.
+Baixa disponibilidade.
+Má experiência do usuário.
+Falta de manutenção.
+
+Quais aspectos definem a qualidade?
+
+Os principais aspectos são:
+
+Funcionalidade (faz o que deve fazer).
+Confiabilidade.
+Desempenho.
+Segurança.
+Facilidade de uso (usabilidade).
+Manutenibilidade (facilidade para corrigir erros).
+Compatibilidade com diferentes dispositivos.
+Disponibilidade.
+
+O que poderia ser feito para melhorar?
+Realizar mais testes antes de lançar novas versões.
+Corrigir bugs rapidamente.
+Melhorar a interface do usuário.
+Otimizar o desempenho.
+Investir em segurança.
+Monitorar falhas constantemente.
+Ouvir o feedback dos usuários.
+Atualizar o software regularmente.
+
+Onde os pontos falhos poderiam ser corrigidos?
+
+Os problemas poderiam ser corrigidos em várias etapas do desenvolvimento:
+
+Análise de requisitos: entender melhor as necessidades dos usuários.
+Projeto (design): criar uma arquitetura mais eficiente.
+Desenvolvimento: escrever código com boas práticas.
+Testes: identificar e corrigir erros antes da entrega.
+Implantação: monitorar o sistema após o lançamento.
+Manutenção: corrigir falhas e adicionar melhorias continuamente.

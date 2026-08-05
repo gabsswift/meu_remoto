@@ -1,0 +1,40 @@
+1. Compare as visões de Pressman e Hirama sobre Qualidade de Software. O que há de comum? O que há de diferente?
+
+Semelhanças:
+
+Ambos afirmam que um software de qualidade deve atender às necessidades dos usuários.
+Os dois destacam que qualidade não significa apenas funcionar corretamente, mas também ser confiável, eficiente, seguro e fácil de usar.
+Ambos consideram importante seguir padrões e boas práticas durante o desenvolvimento.
+
+Diferenças:
+
+Pressman enfatiza que a qualidade está relacionada à conformidade com os requisitos especificados e aos padrões de desenvolvimento definidos.
+Hirama destaca uma visão mais voltada para o usuário, considerando a satisfação, a utilidade e o valor que o software entrega no seu uso.
+
+2. Defina com suas palavras o conceito de Qualidade de Software.
+
+Qualidade de software é a capacidade de um sistema atender às necessidades dos usuários de forma correta, segura, confiável e eficiente. Um software de qualidade deve cumprir suas funções, apresentar poucos erros, ser fácil de usar, ter bom desempenho e ser simples de manter e atualizar.
+
+3. Na prática, como os aspectos vistos podem contribuir para:
+1. Avaliar a qualidade de um software existente?
+
+É possível avaliar observando aspectos como:
+
+Se o software funciona corretamente.
+Se apresenta poucos erros ou travamentos.
+Se possui bom desempenho.
+Se é fácil de utilizar.
+Se protege os dados dos usuários.
+Se recebe atualizações e correções com frequência.
+Se atende às necessidades para as quais foi desenvolvido.
+2. Construir um novo software com qualidade?
+
+Para desenvolver um software de qualidade é importante:
+
+Levantar corretamente os requisitos dos usuários.
+Planejar bem o projeto.
+Utilizar boas práticas de programação.
+Realizar testes durante todo o desenvolvimento.
+Corrigir falhas antes da entrega.
+Fazer manutenção e melhorias contínuas após o lançamento.
+Ouvir o feedback dos usuários para aperfeiçoar o sistema.

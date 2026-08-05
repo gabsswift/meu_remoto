@@ -1,0 +1,45 @@
+1. O que representam os níveis 1 ao 5 no CMMI? O que isso implica para as empresas?
+
+O CMMI (Capability Maturity Model Integration) é um modelo que avalia o nível de maturidade dos processos de desenvolvimento de software de uma empresa.
+
+Nível 1 – Inicial: Os processos são desorganizados e dependem muito das pessoas. Os resultados são imprevisíveis.
+Nível 2 – Gerenciado: Os processos são planejados, documentados e acompanhados.
+Nível 3 – Definido: Os processos são padronizados em toda a organização.
+Nível 4 – Gerenciado Quantitativamente: A empresa utiliza métricas para controlar e melhorar seus processos.
+Nível 5 – Em Otimização: A organização busca a melhoria contínua, inovando e prevenindo falhas.
+
+Quanto maior o nível, mais organizados e eficientes são os processos da empresa, resultando em maior qualidade dos produtos, redução de custos e maior satisfação dos clientes.
+
+2. Responda a questão anterior, considerando o modelo MPS-BR.
+
+O MPS-BR (Melhoria de Processo do Software Brasileiro) é um modelo criado para melhorar os processos das empresas brasileiras, principalmente as de pequeno e médio porte.
+
+Ele possui sete níveis de maturidade:
+
+Nível G – Parcialmente Gerenciado
+Nível F – Gerenciado
+Nível E – Parcialmente Definido
+Nível D – Largamente Definido
+Nível C – Definido
+Nível B – Gerenciado Quantitativamente
+Nível A – Em Otimização
+
+À medida que a empresa evolui nesses níveis, seus processos tornam-se mais organizados, previsíveis e eficientes, aumentando a qualidade dos softwares produzidos.
+
+3. Como uma empresa pode se capacitar para usar um modelo de maturidade? Quais são os benefícios disso?
+
+A empresa pode investir em treinamentos, capacitar seus colaboradores, contratar consultorias especializadas e implementar gradualmente as práticas recomendadas pelo modelo escolhido.
+
+Os principais benefícios são a melhoria da qualidade dos softwares, redução de erros e retrabalho, maior produtividade, melhor organização dos processos, aumento da satisfação dos clientes e maior competitividade no mercado.
+
+4. Pesquise por empresas que sejam certificadas em algum modelo de maturidade.
+
+Algumas empresas que possuem certificações ou avaliações em modelos de maturidade são:
+
+Stefanini
+BRQ Digital Solutions
+CTIS Tecnologia
+IBM
+Accenture
+
+Essas empresas utilizam modelos como CMMI ou MPS-BR para melhorar seus processos de desenvolvimento de software e garantir maior qualidade em seus produtos e serviços.

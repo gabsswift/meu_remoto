@@ -1,0 +1,60 @@
+Bug do Milênio (Y2K)-Muitos sistemas armazenavam o ano com apenas dois dígitos (99 em vez de 1999). Havia medo de que, ao virar para 2000, sistemas interpretassem "00" como 1900.	Decisão de projeto para economizar memória e falta de visão de longo prazo.	Grandes investimentos em correções preventivas. Os impactos reais foram pequenos porque empresas e governos corrigiram os sistemas antes da virada.
+Queda do sistema da British Airways (2017)-Uma falha de energia em um data center interrompeu os sistemas da companhia aérea. Milhares de voos foram cancelados ou atrasados.	Problemas na infraestrutura de TI e falhas nos mecanismos de recuperação (backup e redundância).	Mais de 75 mil passageiros afetados, prejuízo financeiro, perda de confiança dos clientes e danos à imagem da empresa.
+Interrupção do AWS S3 (Amazon) (2017)-Uma falha durante uma operação de manutenção derrubou o serviço de armazenamento S3, afetando milhares de sites e aplicações.	Erro humano durante uma operação administrativa aliado à dependência de um único serviço.	Sites, aplicativos e serviços indisponíveis por várias horas, causando prejuízos para empresas que utilizavam a nuvem.
+CrowdStrike e Microsoft (2024)-Uma atualização defeituosa do software de segurança CrowdStrike provocou a famosa "tela azul" (BSOD) em milhões de computadores Windows.	Erro em uma atualização de software e falhas no processo de validação antes da distribuição da atualização. Cerca de 8,5 milhões de dispositivos foram afetados.	Cancelamentos de voos, interrupções em bancos, hospitais, emissoras de TV, empresas e órgãos públicos em diversos países.
+
+1. Quais são os principais vilões nessas histórias?
+
+Os principais responsáveis são:
+
+Falhas humanas (erros de configuração, manutenção e desenvolvimento).
+Erros de software (bugs).
+Testes insuficientes antes da implantação.
+Falta de planejamento para situações de falha.
+Dependência excessiva de sistemas críticos, sem redundância adequada.
+
+2. O que poderia ser feito para evitar esses problemas?
+Realizar testes mais rigorosos antes de liberar atualizações.
+Utilizar ambientes de homologação antes da produção.
+Implantar atualizações de forma gradual (rollout).
+Manter planos de contingência e recuperação de desastres.
+Criar redundância de infraestrutura e backups.
+Monitorar continuamente os sistemas.
+Realizar revisões de código e auditorias de qualidade.
+
+3. Como você avalia a qualidade desses softwares?
+
+Os softwares eram tecnicamente avançados e atendiam seus objetivos, porém apresentavam falhas em aspectos importantes da qualidade:
+
+Confiabilidade: comprometida quando ocorreram as falhas.
+Disponibilidade: baixa durante os incidentes.
+Manutenibilidade: em alguns casos, dificultou a recuperação.
+Segurança operacional: processos de atualização não impediram que erros chegassem aos usuários.
+
+Ou seja, eram softwares robustos em funcionamento normal, mas com fragilidades em cenários críticos.
+
+4. Qual é a relação entre os casos anteriores?
+
+Todos os casos mostram que:
+
+sistemas de software são essenciais para a sociedade;
+pequenas falhas podem causar impactos globais;
+testes e planejamento são fundamentais;
+empresas dependem fortemente da tecnologia;
+um único erro pode afetar milhões de pessoas.
+
+Em todos os exemplos, uma falha relativamente pequena acabou gerando consequências enormes devido à grande dependência dos sistemas.
+
+5. Quais foram os impactos?
+
+Os principais impactos foram:
+
+prejuízos financeiros de milhões ou bilhões de dólares;
+cancelamento de voos;
+interrupção de serviços bancários;
+paralisação de hospitais e serviços públicos;
+indisponibilidade de sites e aplicações;
+perda de produtividade;
+danos à reputação das empresas;
+perda de confiança dos clientes;
+necessidade de mobilização de equipes para restaurar os sistemas rapidamente.

@@ -1,0 +1,23 @@
+1. Acesse a página de cada associação profissional indicada, observando os temas principais abordados em seus sites.
+
+As principais associações da área de Computação e Engenharia de Software são a ACM (Association for Computing Machinery), a IEEE Computer Society e a Sociedade Brasileira de Computação (SBC).
+
+Essas associações promovem pesquisas, eventos científicos, cursos, certificações, publicações, desenvolvimento profissional e criação de padrões para a área de tecnologia. Também incentivam a troca de conhecimento entre pesquisadores, estudantes e profissionais.
+
+2. Pesquise em suas bibliotecas digitais alguns artigos associados ao tema de qualidade de software. Tente baixar ao menos um de cada biblioteca que chame mais a sua atenção sobre o assunto.
+
+Alguns exemplos de artigos e publicações encontrados são:
+
+Na ACM Digital Library: artigos sobre Engenharia de Software, testes de software e melhoria da qualidade.
+Na IEEE Xplore: artigos sobre qualidade de software, métricas, manutenção e processos de desenvolvimento.
+Na SBC OpenLib: trabalhos publicados no Simpósio Brasileiro de Qualidade de Software (SBQS), abordando testes, garantia da qualidade e melhoria de processos.
+
+Esses artigos mostram como técnicas, métricas e boas práticas ajudam a desenvolver softwares mais confiáveis e de melhor qualidade.
+
+3. Pesquise sobre os autores indicados e aponte algumas de suas principais obras e contribuições para a área de Qualidade de Software.
+
+Roger S. Pressman é autor do livro Engenharia de Software: Uma Abordagem Profissional, uma das principais referências da área. Sua contribuição foi organizar conceitos sobre desenvolvimento, testes, manutenção e garantia da qualidade de software.
+
+Ian Sommerville é autor do livro Engenharia de Software, também muito utilizado em universidades. Seus trabalhos abordam requisitos, arquitetura, qualidade, segurança e processos de desenvolvimento de software.
+
+Kechi Hirama é autor de livros sobre Engenharia de Software e Qualidade de Software. Suas contribuições estão relacionadas à melhoria dos processos de desenvolvimento, produtividade, métricas e gestão da qualidade, enfatizando a importância de produzir softwares que atendam às necessidades dos usuários com eficiência.
