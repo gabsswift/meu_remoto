@@ -1,0 +1,147 @@
+1. Quais foram as primeiras iniciativas para a criação de testes de software?
+
+As primeiras iniciativas de testes de software surgiram entre as décadas de 1940 e 1950, junto com os primeiros computadores. Inicialmente, os testes eram realizados pelos próprios programadores, que verificavam manualmente se os programas executavam corretamente.
+
+Um dos primeiros registros conhecidos ocorreu em 1947, quando uma falha em um computador Harvard Mark II foi encontrada devido a uma mariposa presa no equipamento. Esse evento ficou conhecido como a origem do termo "bug" na computação.
+
+Na década de 1950, os testes começaram a ser vistos como uma atividade separada da programação, com o objetivo de encontrar erros nos sistemas. Já nas décadas de 1960 e 1970 surgiram conceitos mais estruturados, como:
+
+Testes baseados em requisitos;
+Testes de unidade;
+Testes de integração;
+Testes de validação.
+
+Com a evolução da engenharia de software, os testes passaram a fazer parte de todo o ciclo de desenvolvimento, deixando de ser apenas uma etapa final.
+
+Referência:
+
+Glenford J. Myers. The Art of Software Testing. 1979.
+2. Como são feitos testes no Google?
+
+O Google utiliza uma abordagem bastante integrada entre desenvolvimento e testes, conhecida como Software Engineering at Google. Os testes fazem parte do processo desde o início do desenvolvimento e são realizados por diferentes profissionais, como desenvolvedores e engenheiros especializados em testes.
+
+Algumas práticas utilizadas pelo Google são:
+
+Testes automatizados: grande parte dos testes é executada automaticamente para verificar se alterações no código causaram problemas.
+Testes unitários: cada pequena parte do código é testada individualmente.
+Testes de integração: verificam se diferentes componentes funcionam corretamente juntos.
+Testes de sistema: avaliam o funcionamento completo da aplicação.
+Revisão de código: antes de uma alteração ser incorporada, outros profissionais analisam o código.
+Integração contínua: novas alterações passam por testes automaticamente antes de serem disponibilizadas.
+
+O Google também possui profissionais chamados Software Engineers in Test (SET) e Test Engineers, que trabalham criando ferramentas, estratégias e processos para melhorar a qualidade dos produtos.
+
+Referência:
+
+Google. Software Engineering at Google: Lessons Learned from Programming Over Time.
+Google Testing Blog.
+3. Cite um autor de referência sobre o tema "Testes".
+
+Um dos principais autores de referência na área de testes de software é:
+
+Glenford J. Myers
+
+Myers é autor do livro:
+
+"The Art of Software Testing" (1979)
+
+O livro é considerado uma das obras mais importantes sobre testes de software. Ele apresenta conceitos fundamentais como:
+
+Importância de encontrar defeitos antes da entrega;
+Técnicas de criação de casos de teste;
+Testes de caixa preta;
+Estratégias para aumentar a qualidade dos sistemas.
+
+Outro autor importante é:
+
+Boris Beizer
+
+Autor do livro:
+
+"Software Testing Techniques"
+
+Ele contribuiu para o desenvolvimento de técnicas e conceitos modernos de testes, principalmente relacionados à análise de falhas e estratégias de teste.
+
+4. O que deve haver em um plano de testes?
+
+Um plano de testes é um documento que organiza como os testes de um sistema serão realizados. Segundo boas práticas da engenharia de software, ele deve conter:
+
+1. Objetivo dos testes
+
+Define o motivo da realização dos testes e quais características serão avaliadas.
+
+Exemplo:
+
+Garantir que o sistema de cadastro funcione corretamente.
+2. Escopo dos testes
+
+Define quais partes do sistema serão testadas e quais não serão.
+
+Exemplo:
+
+Testar cadastro, login e consultas;
+Não testar funcionalidades ainda não implementadas.
+3. Estratégia de testes
+
+Define quais tipos de testes serão utilizados.
+
+Exemplo:
+
+Testes unitários;
+Testes de integração;
+Testes de desempenho;
+Testes de segurança.
+4. Ambiente de testes
+
+Descreve os recursos necessários para executar os testes.
+
+Exemplo:
+
+Sistema operacional;
+Banco de dados;
+Navegadores;
+Servidores.
+5. Casos de teste
+
+Lista os cenários que serão executados.
+
+Exemplo:
+
+Caso	Entrada	Resultado esperado
+Login válido	Usuário e senha corretos	Acesso permitido
+Login inválido	Senha incorreta	Mensagem de erro
+6. Ferramentas utilizadas
+
+Define quais ferramentas serão usadas.
+
+Exemplo:
+
+JUnit;
+Selenium;
+Postman;
+JMeter.
+7. Critérios de aprovação
+
+Define quando o sistema será considerado aprovado.
+
+Exemplo:
+
+Todos os testes críticos devem passar;
+Nenhum erro grave pode permanecer.
+8. Equipe responsável
+
+Define quem realizará cada atividade de teste.
+
+9. Cronograma
+
+Apresenta os períodos em que os testes serão executados.
+
+10. Relatórios e acompanhamento de defeitos
+
+Define como os resultados serão registrados.
+
+Exemplo:
+
+Relatórios de execução;
+Registro de bugs encontrados;
+Evidências dos problemas.

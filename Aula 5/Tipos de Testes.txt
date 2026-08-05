@@ -1,0 +1,331 @@
+1. Técnicas e ferramentas para cada tipo de teste
+Teste de Configuração
+
+Objetivo:
+Verificar se o sistema funciona corretamente em diferentes ambientes, sistemas operacionais, navegadores ou configurações de hardware.
+
+Técnicas:
+
+Teste de compatibilidade;
+Teste em diferentes ambientes;
+Comparação de comportamento entre configurações.
+
+Ferramentas:
+
+Selenium (testes em diferentes navegadores);
+BrowserStack (testes em vários dispositivos e navegadores);
+Docker (criação de ambientes de teste).
+
+Artefatos produzidos:
+
+Relatório de compatibilidade;
+Lista de ambientes testados;
+Registro de problemas encontrados.
+Teste de Recuperação
+
+Objetivo:
+Avaliar se o sistema consegue voltar ao funcionamento após falhas, como queda de energia, perda de conexão ou falha do servidor.
+
+Técnicas:
+
+Simulação de falhas;
+Teste de backup e restauração;
+Teste de recuperação de banco de dados.
+
+Ferramentas:
+
+JMeter;
+Chaos Monkey;
+Ferramentas de backup do banco de dados.
+
+Artefatos:
+
+Relatório de recuperação;
+Tempo necessário para restauração;
+Registro das falhas simuladas.
+Teste de Regressão
+
+Objetivo:
+Garantir que alterações no sistema não tenham causado problemas em funcionalidades que já funcionavam.
+
+Técnicas:
+
+Reexecução de casos de teste antigos;
+Automação de testes repetitivos;
+Comparação entre versões.
+
+Ferramentas:
+
+Selenium;
+JUnit;
+Cypress;
+Jenkins para execução automática.
+
+Artefatos:
+
+Suíte de testes automatizados;
+Relatório de execução;
+Histórico de versões testadas.
+
+O teste de regressão é especialmente importante após modificações no software, pois busca identificar defeitos introduzidos em funcionalidades existentes.
+
+Teste de Confiabilidade
+
+Objetivo:
+Verificar se o sistema permanece funcionando corretamente durante longos períodos.
+
+Técnicas:
+
+Teste de longa duração;
+Teste de estabilidade;
+Monitoramento de falhas.
+
+Ferramentas:
+
+Apache JMeter;
+LoadRunner;
+New Relic.
+
+Artefatos:
+
+Relatório de estabilidade;
+Gráficos de disponibilidade;
+Taxa de erros encontrados.
+Teste de Segurança
+
+Objetivo:
+Encontrar vulnerabilidades e garantir proteção dos dados.
+
+Técnicas:
+
+Teste de invasão (Pentest);
+Análise de vulnerabilidades;
+Teste de autenticação e autorização.
+
+Ferramentas:
+
+OWASP ZAP;
+Burp Suite;
+SonarQube.
+
+Artefatos:
+
+Relatório de vulnerabilidades;
+Lista de riscos encontrados;
+Evidências dos ataques simulados.
+
+O ISTQB possui inclusive uma certificação específica para testes de segurança, abordando planejamento, execução e avaliação desses testes.
+
+Teste de Desempenho
+
+Objetivo:
+Avaliar velocidade, estabilidade e capacidade do sistema sob diferentes cargas.
+
+Técnicas:
+
+Teste de carga;
+Teste de estresse;
+Teste de escalabilidade.
+
+Ferramentas:
+
+Apache JMeter;
+Gatling;
+K6.
+
+Artefatos:
+
+Relatório de desempenho;
+Gráficos de tempo de resposta;
+Métricas de uso de CPU e memória.
+Teste de Usabilidade
+
+Objetivo:
+Avaliar se o sistema é fácil de utilizar pelos usuários.
+
+Técnicas:
+
+Teste com usuários reais;
+Questionários;
+Observação de interação.
+
+Ferramentas:
+
+Google Forms;
+Hotjar;
+Maze.
+
+Artefatos:
+
+Relatório de experiência do usuário;
+Feedback dos usuários;
+Lista de melhorias sugeridas.
+Teste de Sistema
+
+Objetivo:
+Avaliar o sistema completo verificando se todos os requisitos foram atendidos.
+
+Técnicas:
+
+Testes funcionais;
+Testes de cenários completos;
+Testes de aceitação.
+
+Ferramentas:
+
+Selenium;
+Cucumber;
+TestRail.
+
+Artefatos:
+
+Plano de testes;
+Casos de teste;
+Relatório final de validação.
+Teste de API
+
+Objetivo:
+Verificar se os serviços e comunicação entre sistemas funcionam corretamente.
+
+Técnicas:
+
+Teste de requisições HTTP;
+Validação de respostas;
+Teste de autenticação.
+
+Ferramentas:
+
+Postman;
+SoapUI;
+Rest Assured.
+
+Artefatos:
+
+Coleções de requisições;
+Relatórios de chamadas;
+Documentação dos testes.
+Teste de Integração
+
+Objetivo:
+Verificar se diferentes módulos do sistema trabalham corretamente juntos.
+
+Técnicas:
+
+Teste de comunicação entre componentes;
+Teste de banco de dados;
+Teste de serviços integrados.
+
+Ferramentas:
+
+JUnit;
+Mockito;
+Postman.
+
+Artefatos:
+
+Casos de teste de integração;
+Logs de execução;
+Relatórios de erros.
+Teste de Unidade
+
+Objetivo:
+Testar pequenas partes do código, como métodos e funções individuais.
+
+Técnicas:
+
+Teste automatizado;
+Teste baseado em valores de entrada e saída;
+Teste de cobertura de código.
+
+Ferramentas:
+
+JUnit (Java);
+PHPUnit (PHP);
+PyTest (Python).
+
+Artefatos:
+
+Código dos testes;
+Relatório de cobertura;
+Resultado das execuções.
+Teste Exploratório
+
+Objetivo:
+Encontrar problemas sem seguir apenas casos de teste previamente definidos.
+
+Técnicas:
+
+Exploração livre do sistema;
+Criação de cenários durante o teste;
+Investigação de comportamentos inesperados.
+
+Ferramentas:
+
+Jira;
+TestRail;
+Azure DevOps.
+
+Artefatos:
+
+Anotações dos testes;
+Evidências de erros;
+Relatório de descobertas.
+2. Exemplos de artefatos produzidos
+
+Durante o processo de testes podem ser produzidos diversos documentos e registros:
+
+Artefato=Descrição
+Plano de testes=Documento que define objetivos, recursos e estratégias
+Caso de teste=Passos necessários para validar uma funcionalidade
+Script automatizado=Código responsável por executar testes automaticamente
+Relatório de execução=Resultado dos testes realizados
+Registro de defeitos=Documento contendo erros encontrados
+Evidências=Prints, logs ou vídeos comprovando problemas
+Relatório de cobertura=Mostra quais partes do código foram testadas
+3. Exemplos de relatórios de execução
+Relatório de Teste de Unidade
+
+Projeto: Sistema de Locadora
+Ferramenta: JUnit
+
+Caso de teste	Resultado
+Cadastro de cliente válido	Aprovado
+Cadastro sem nome	Aprovado
+Busca de filme inexistente	Aprovado
+
+Resultado final:
+10 testes executados, 10 aprovados.
+
+Relatório de Teste de Desempenho
+
+Sistema: Aplicação Web
+
+Ferramenta: Apache JMeter
+
+Métrica	Resultado
+Usuários simulados	500
+Tempo médio de resposta	1,2 segundos
+Erros encontrados	0
+
+Resultado final:
+Sistema suportou a carga esperada sem apresentar falhas.
+
+Relatório de Teste de Segurança
+
+Sistema: Sistema de Cadastro
+
+Ferramenta: OWASP ZAP
+
+Vulnerabilidade	Resultado
+SQL Injection	Não encontrado
+Falha de autenticação	Corrigida
+Dados expostos	Não encontrado
+
+Resultado final:
+Sistema aprovado nos testes de segurança.
+
+Referências
+ISTQB Glossary - Software Testing Terms.
+ISTQB Foundation - Test Types.
+ISTQB - Certified Tester Security Tester.
+ISTQB Worldwide Software Testing Practices Report.

@@ -1,0 +1,12 @@
+Como não realizei com algum colega,fiz uma sintexe das atividades que precisavam de colaboracão,entendendo os conceitos.
+Compartilhar um repositório remoto:
+Essa atividade mostra como compartilhar um repositório com outra pessoa para que ambos possam trabalhar no mesmo projeto, adicionando repositórios remotos e acompanhando as alterações feitas por cada um.
+
+Enviar dados locais para o remoto:
+Nessa atividade é realizado o envio das alterações do computador para o GitHub e a atualização do repositório local com as mudanças feitas por outros colaboradores, mantendo todos os repositórios sincronizados.
+
+Colaborando com ramos remotos (1):
+A atividade ensina a criar um ramo de desenvolvimento, fazer alterações nele, enviá-lo ao repositório remoto e permitir que outros colaboradores utilizem esse ramo para trabalhar em paralelo.
+
+Colaborando com ramos remotos (2):
+Essa etapa mostra como receber alterações de outros colaboradores, criar um ramo para correções, registrar as mudanças, enviá-las ao repositório remoto e, ao final, unir as correções ao ramo principal.

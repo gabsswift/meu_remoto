@@ -1,0 +1,43 @@
+1. Casos onde a falta de testes contribuiu para problemas graves em sistemas ou projetos
+Caso: Falha do foguete Ariane 5 (1996)
+
+O lançamento do foguete Ariane 5, desenvolvido pela Agência Espacial Europeia (ESA), fracassou poucos segundos após a decolagem devido a um erro no software responsável pelo sistema de referência inercial. O problema aconteceu porque uma parte do código utilizado no Ariane 4 foi reutilizada sem testes adequados para as novas condições do Ariane 5. O sistema apresentou um erro de conversão numérica que causou a perda das informações de orientação do foguete. Segundo o relatório da comissão de investigação, análises e testes mais completos do sistema poderiam ter identificado o problema antes do lançamento.
+
+Relação com testes de software:
+O caso demonstra a importância dos testes de integração e testes em ambientes próximos ao funcionamento real. Mesmo que um componente tenha funcionado em outro projeto, ele precisa ser novamente validado quando utilizado em um novo contexto.
+
+Referência:
+
+European Space Agency (ESA). Ariane 501 Inquiry Board Report. 1996.
+Caso: Problemas de aceleração involuntária em veículos Toyota
+
+Entre 2009 e 2010, a Toyota enfrentou uma grande crise envolvendo relatos de aceleração involuntária em alguns veículos. O caso gerou investigações envolvendo sistemas eletrônicos e de software dos automóveis. A investigação realizada pela NHTSA e pela NASA analisou possíveis falhas eletrônicas e destacou a importância de testes rigorosos em sistemas críticos de segurança.
+
+Relação com testes de software:
+Sistemas embarcados, principalmente aqueles relacionados à segurança, precisam passar por testes extensivos, incluindo testes de condições extremas, análise de código e validação do comportamento do sistema em diferentes situações.
+
+Referência:
+
+National Highway Traffic Safety Administration (NHTSA). Technical Support to the NHTSA on the Reported Toyota Motor Corporation Unintended Acceleration Investigation.
+2. Casos de sucesso com adoção de boas práticas de testes
+Caso: Uso de Integração Contínua (Continuous Integration) em projetos de software
+
+A adoção de práticas de Integração Contínua (CI) trouxe melhorias significativas para equipes de desenvolvimento, principalmente pela execução automática de testes durante o processo de alteração do código. Estudos mostram que práticas de CI ajudam a reduzir problemas de integração, aumentar a qualidade do software e fornecer feedback mais rápido aos desenvolvedores.
+
+Com a utilização de ferramentas automatizadas, cada alteração realizada no código pode ser testada antes de ser incorporada ao projeto principal. Isso permite identificar defeitos mais cedo e diminuir o custo de correção.
+
+Relação com testes de software:
+A automação de testes, junto com integração contínua, melhora a confiabilidade dos sistemas porque os erros são encontrados rapidamente durante o desenvolvimento, antes de chegar ao usuário final.
+
+Referência:
+
+Elazhary, O. et al. Uncovering the Benefits and Challenges of Continuous Integration Practices. 2021.
+Caso: Melhoria de qualidade através de testes automatizados em empresas
+
+Pesquisas sobre práticas de integração contínua em organizações mostram que o monitoramento dos processos de CI pode melhorar a percepção de qualidade do software, aumentar a comunicação entre equipes e incentivar melhores práticas de desenvolvimento.
+
+A utilização de testes automatizados, juntamente com ferramentas de integração contínua, permite que problemas sejam encontrados rapidamente e reduz a quantidade de falhas após a entrega do sistema.
+
+Referência:
+
+Santos, J.; Costa, D. A.; Kulesza, U. Monitoring Continuous Integration Practices in Industry: A Case Study. 2025.

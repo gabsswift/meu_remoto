@@ -1,0 +1,89 @@
+1. Vagas envolvendo testes de software
+Vaga Júnior — Analista de Testes (QA Jr) - Cognizant
+
+A vaga de Analista de Testes (QA Jr) busca profissionais responsáveis por validar aplicações, criar cenários de testes e verificar se os sistemas funcionam conforme os requisitos esperados. Entre as habilidades solicitadas estão conhecimentos em testes funcionais, testes de integração, testes de API, validação de dados utilizando SQL e criação de casos de teste.
+
+Tecnologias e conhecimentos exigidos:
+
+Testes funcionais;
+Testes de API;
+SQL para validação de dados;
+Análise de requisitos;
+Criação e execução de casos de teste.
+
+Relação com a carreira:
+O profissional júnior normalmente atua mais na execução de testes, identificação de problemas e documentação de defeitos encontrados no sistema.
+
+Referência:
+
+Cognizant Careers - Analista de Testes (QA) Jr.
+Vaga Pleno — Engenheiro de QA de Software Pleno - Tractian
+
+A vaga de Engenheiro de QA Pleno envolve planejamento, criação e manutenção de testes automatizados para aplicações web, mobile e APIs. O profissional precisa participar do processo de desenvolvimento e integrar os testes aos fluxos de entrega contínua.
+
+Tecnologias e conhecimentos exigidos:
+
+Cypress;
+Playwright;
+Selenium;
+JavaScript/TypeScript;
+Testes de API;
+CI/CD;
+GitHub Actions, GitLab CI ou Jenkins;
+Metodologias ágeis.
+
+Relação com a carreira:
+O profissional pleno já possui maior autonomia, participando da criação das estratégias de testes e ajudando a melhorar os processos de qualidade do projeto.
+
+Referência:
+
+Tractian - Engenheiro de QA de Software Pleno.
+Vaga Sênior — Engenheiro(a) de Automação QA Sênior - Experian
+
+A vaga de QA Sênior envolve criação de estratégias de qualidade, desenvolvimento de testes automatizados e participação nas decisões técnicas do projeto. O profissional também atua como referência para outros membros da equipe.
+
+Tecnologias e conhecimentos exigidos:
+
+Selenium;
+Cypress;
+REST-Assured;
+JMeter;
+Cucumber;
+Automação de testes;
+CI/CD;
+Experiência com arquitetura e integração de sistemas.
+
+Relação com a carreira:
+O profissional sênior além de executar testes, trabalha na definição de padrões, melhoria dos processos e orientação de profissionais menos experientes.
+
+Referência:
+
+Experian - Engenheiro(a) de Automação QA Sênior.
+2. Resumo sobre os vídeos e carreira em testes
+
+(Essa parte eu recomendo você assistir e me mandar os pontos, mas deixei uma versão inicial baseada no tema dos vídeos.)
+
+Como grandes empresas têm abordado a área de testes?
+
+Grandes empresas de tecnologia tratam testes como uma etapa fundamental durante todo o desenvolvimento do software, não apenas como uma fase final antes da entrega. Empresas como Google possuem equipes especializadas em engenharia de testes, utilizando automação, análise de qualidade e integração contínua para garantir que os sistemas sejam confiáveis.
+
+Os testes fazem parte do ciclo completo de desenvolvimento, envolvendo desenvolvedores, analistas de qualidade e outros profissionais.
+
+O que se espera de um profissional da área?
+
+O profissional de testes precisa possuir conhecimentos técnicos e também habilidades de análise. Entre as principais características estão:
+
+Capacidade de identificar problemas;
+Conhecimento de processos de desenvolvimento;
+Escrita e execução de casos de teste;
+Conhecimento de automação;
+Comunicação com equipes de desenvolvimento;
+Pensamento crítico para encontrar possíveis falhas.
+
+Além do conhecimento de ferramentas, espera-se que o profissional compreenda o funcionamento do sistema e ajude a melhorar a qualidade do produto.
+
+Quais são as perspectivas futuras para esses profissionais?
+
+A área de testes tende a crescer com o aumento da complexidade dos sistemas. A automação de testes, inteligência artificial e integração contínua devem tornar os profissionais de QA cada vez mais envolvidos no desenvolvimento.
+
+O papel do analista de testes também vem mudando: ele deixa de ser apenas alguém que encontra erros e passa a atuar como um profissional responsável pela qualidade geral do software, ajudando desde o planejamento até a entrega final.

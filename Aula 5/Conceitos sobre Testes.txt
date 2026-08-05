@@ -1,0 +1,99 @@
+1. Recapitule seus projetos anteriores e enumere os testes que realizou.
+
+Durante o desenvolvimento de projetos anteriores foram realizados alguns testes para verificar o funcionamento correto das aplicações. Entre eles:
+
+Projeto Locadora (Java + Banco de Dados MySQL)
+Teste de cadastro de clientes: foi verificado se novos clientes eram inseridos corretamente no banco de dados.
+Teste de cadastro de títulos: foi realizado o teste de inserção, alteração e consulta dos filmes cadastrados.
+Teste de conexão com banco de dados: foi verificado se a aplicação conseguia acessar e manipular as informações armazenadas no MySQL.
+Teste de interface gráfica: foram testados componentes como campos de texto, caixas de seleção (JComboBox) e tabelas (JTable) para verificar se exibiam as informações corretamente.
+Teste de validação de dados: foi verificado o comportamento da aplicação quando campos obrigatórios estavam vazios ou recebiam valores inválidos.
+Projeto SoundSwap (Banco de Dados)
+Teste de criação das tabelas: foi verificado se as tabelas e seus relacionamentos foram criados corretamente.
+Teste de inserção de dados: foram realizados comandos INSERT para validar o armazenamento das informações.
+Teste de consultas SQL: foram testados comandos SELECT utilizando filtros e relacionamentos entre tabelas.
+Teste de integridade dos dados: foi verificado se as chaves primárias e estrangeiras funcionavam corretamente.
+Projetos de Programação (Java/C)
+Teste de execução dos programas: verificação se o programa executava sem apresentar erros.
+Teste de entrada e saída: foram utilizados diferentes valores de entrada para verificar se as respostas geradas estavam corretas.
+Teste de casos extremos: foram testados valores limites, como números negativos, valores vazios ou grandes quantidades de dados.
+2. Descreva os testes realizados utilizando os conceitos apresentados.
+
+Os testes realizados podem ser relacionados aos conceitos de teste de software da seguinte forma:
+
+Teste de unidade
+
+Foram realizados testes em pequenas partes do sistema, como métodos individuais em programas Java. Por exemplo, testar um método responsável por calcular valores ou realizar uma busca no banco de dados.
+
+Teste de integração
+
+Foi realizado ao verificar a comunicação entre diferentes partes do sistema. Um exemplo foi testar a integração entre a aplicação Java e o banco de dados MySQL, verificando se os dados inseridos pela interface eram armazenados corretamente.
+
+Teste funcional
+
+Foram realizados testes para verificar se as funcionalidades do sistema atendiam aos requisitos esperados. Por exemplo, no sistema de locadora, testar se o cadastro de um filme realmente adicionava o registro ao banco.
+
+Teste de validação
+
+Foi realizado verificando se o sistema aceitava somente informações corretas. Por exemplo, impedir o cadastro de um cliente sem nome ou sem informações obrigatórias.
+
+Teste de caixa preta
+
+Alguns testes foram realizados observando apenas as entradas e saídas do sistema, sem analisar o código interno. Um exemplo seria inserir dados em um formulário e verificar se o resultado apresentado estava correto.
+
+Teste de caixa branca
+
+Também foram analisadas partes internas do código, verificando condições, estruturas de repetição e funcionamento dos métodos implementados.
+
+3. Referências acadêmicas sobre erro, falha, defeito e bug.
+Erro (Error)
+
+Artigo:
+"A Taxonomy of Software Development Errors, Faults and Failures"
+Autores: Robert L. Glass
+
+Resumo:
+O trabalho apresenta uma classificação dos principais problemas encontrados durante o desenvolvimento de software. O termo erro está relacionado a uma ação humana incorreta, como uma interpretação errada de um requisito ou uma implementação equivocada realizada pelo programador.
+
+Relação com o termo:
+Um erro acontece quando uma pessoa desenvolve algo diferente do esperado, podendo posteriormente gerar defeitos no sistema.
+
+Falha (Failure)
+
+Artigo:
+"Software Failures: Understanding the Causes and Preventing Them"
+
+Resumo:
+O artigo aborda situações em que sistemas de software apresentam comportamentos inesperados durante sua execução. A falha ocorre quando o sistema não entrega o resultado esperado pelo usuário.
+
+Relação com o termo:
+A falha é o comportamento incorreto observado pelo usuário quando um defeito existente no software é executado.
+
+Exemplo: um sistema de cadastro que fecha sozinho ao salvar um registro.
+
+Defeito (Fault/Defect)
+
+Artigo:
+"Software Defects: A Survey of Causes, Effects and Prevention"
+
+Resumo:
+O artigo apresenta estudos sobre as causas dos defeitos em software e técnicas utilizadas para evitar esses problemas durante o desenvolvimento.
+
+Relação com o termo:
+O defeito representa um problema existente no código ou no projeto do sistema que pode causar uma falha quando executado.
+
+Exemplo: uma fórmula implementada incorretamente para calcular um valor.
+
+Bug
+
+Artigo:
+"No Silver Bullet — Essence and Accidents of Software Engineering"
+Autor: Frederick P. Brooks Jr.
+
+Resumo:
+O artigo discute dificuldades da engenharia de software e os desafios relacionados ao desenvolvimento de sistemas complexos. Embora não seja exclusivamente sobre bugs, aborda problemas de implementação e manutenção que podem gerar comportamentos inesperados.
+
+Relação com o termo:
+O bug é o termo popular utilizado para indicar um comportamento incorreto do software. Normalmente está associado a um defeito encontrado no código.
+
+Exemplo: uma função que deveria calcular uma média, mas retorna um valor incorreto devido a um erro de programação.
