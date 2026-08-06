@@ -61,7 +61,6 @@ Referência:
 Experian - Engenheiro(a) de Automação QA Sênior.
 2. Resumo sobre os vídeos e carreira em testes
 
-(Essa parte eu recomendo você assistir e me mandar os pontos, mas deixei uma versão inicial baseada no tema dos vídeos.)
 
 Como grandes empresas têm abordado a área de testes?
 
